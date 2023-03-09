@@ -70,5 +70,5 @@ Ao acessar o link você encontrará a seguinte interface gerada usando a ferrame
 
 
 É importante verificar:
-- Se os Id's utilizados para teste existem no banco de dados, para isso você pode executar o GET(1) e obter um Id válido.
-- Se a regra de restrição de preço está sendo obedecida.
+- Se os Id's utilizados para teste existem no banco de dados, para isso você pode executar o serviço de GET e obter os Id's válidos.
+- Se os tipos dados estão sendo respeitados.
