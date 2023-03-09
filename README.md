@@ -29,6 +29,6 @@ Projeto desenvolvido como um teste técnico para a posição de Desenvolvedor de
 - Swashbuckle.AspNetCore
 
 ### Informações Necessárias:
-A API está atualmente hospedada em um Azure App Service em execução no Linux e pode ser encontrada em:
-[https://productsapibr.azurewebsites.net/swagger/index.html]
+A API está atualmente hospedada em um Azure App Service em execução no windows e pode ser encontrada em:
+https://productsapibr.azurewebsites.net/swagger/index.html
 
