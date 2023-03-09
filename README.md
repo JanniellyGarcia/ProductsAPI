@@ -1,7 +1,7 @@
 
 # Products API
 
-### Introdução
+### Descrição
 
 Projeto desenvolvido como um teste técnico para a posição de Desenvolvedor de Software na Ploomes. O repositório consiste no código da API com um CRUD para produtos. Com ele, é possível pesquisar, excluir, editar ou criar novos produtos.
 
