@@ -30,7 +30,7 @@ Projeto desenvolvido como um teste técnico para a posição de Desenvolvedor de
 
 ### Informações Necessárias:
 A API está atualmente hospedada em um Azure App Service em execução no windows e pode ser encontrada em:
-https://productsapibr.azurewebsites.net/swagger/index.html
+https://productsapibr.azurewebsites.net/swagger/index.html [Offline]
 
 Ao acessar o link você encontrará a seguinte interface gerada usando a ferramenta swagger. Nessa tela estão listados os serviços e você pode testar cada um seguindo as instruções de uso e informações de Response descritas em cada endpoint.
 
